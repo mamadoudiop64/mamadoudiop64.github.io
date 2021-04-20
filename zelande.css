@@ -1,0 +1,58 @@
+
+nav li a{
+    text-decoration: none;
+    text-align: center;
+    font: bold;
+    font-size: 20px;
+    border-radius: 2px;
+    font-family:, 'Times New Roman', Times, serif;
+    color: black;   
+}
+a:hover{
+    color:coral;
+}
+nav li{
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 50px;
+    margin-top: 10px;
+    
+    border-radius: 3PX;
+    
+    
+}
+header h1{
+    padding-top: 300PX;
+    font-family: sans-serif;
+    color: tomato;
+}
+#imageprincipal{
+    text-align: center;
+    background: url(nouvellezelande.jpg)no-repeat 50% 50%;
+    background-size: cover;
+    height: 600px;
+    margin: -7px;
+}
+#premierephrase{
+    padding-top: 20px;
+    margin-right: 40PX;
+    font-size: 30px;
+
+}
+#deuxiemephrase{
+    padding-top: 20px;
+    margin-right: 40PX;
+    font-size: 30px;
+    justify-content: flex-end;
+}
+#video{
+    margin-top:60px;
+    margin-left: 30%;
+    margin-bottom: -6px;
+}
+body{
+    background-color:white;
+}
+a:hover{
+    color:coral;
+}
