@@ -14,12 +14,12 @@ a:hover{
     color:coral;
 }
 nav li{
+   background-position: relative;
     display: inline-block;
-    margin-left: 60px;
-    margin-right: 50px;
-    margin-top: 10px;
+    margin-right:2%;
+    margin-top: 2%;
     border-radius: 3PX;  
-    margin-left:105px; 
+    margin-left: 7%; 
 }
 body{
     background: url(tourisme.jpg) 100% no-repeat;
@@ -31,6 +31,6 @@ header{
  border:white solid;
 }
 marquee{
-    font-size: 20px;
+    font-size: 25px;
     font-size: bold;
 }
